@@ -69,7 +69,6 @@ const styles = StyleSheet.create({
   },
   task:{
     marginLeft: 15,
-    fontWeight: 500,
   }
 })
 
